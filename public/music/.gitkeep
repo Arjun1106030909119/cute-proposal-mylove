@@ -1,0 +1,11 @@
+# Place your music files here
+# Recommended formats: .mp3
+#
+# Required files (referenced in MusicPlayer.tsx):
+# - piano.mp3       (soft piano background music)
+# - romantic.mp3    (romantic melody)
+# - dreamy.mp3      (dreamy ambient track)
+#
+# Tip: Use royalty-free music from sites like:
+# - https://pixabay.com/music/
+# - https://freemusicarchive.org/
